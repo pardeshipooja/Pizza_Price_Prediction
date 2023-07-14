@@ -1,0 +1,13 @@
+{"company": {"A": 0, "B": 1, "C": 2, "D": 3, "E": 4},
+ "topping": {"chicken": 1, "mushrooms": 2, "mozzarella": 3, 
+            "smoked beef": 4, "tuna": 5, "vegetables": 6, "meat": 7,
+             "black papper": 8, "sausage": 9, "beef": 10, "papperoni": 11, "onion": 12},
+ "variant": {"classic": 1, "meat_lovers": 2, "double_mix": 3, "crunchy": 4, 
+                "new_york": 5, "double_decker": 6, "double_signature": 7, "american_favorite": 
+                8, "BBQ_meat_fiesta": 9, "super_supreme": 10, "spicy_tuna": 11, "BBQ_sausage":
+                 12, "extravaganza": 13, "meat_eater": 14, "gournet_greek": 15, "italian_veggie": 
+                 16, "thai_veggie": 17, "american_classic": 18, "neptune_tuna": 19, "spicy tuna": 20},
+ "size": {"medium": 1, "small": 2, "large": 3, "reguler": 4, "jumbo": 5, "XL": 6}, 
+ "extra_sauce": {"yes": 1, "no": 0}, 
+ "extra_cheese": {"yes": 1, "no": 0}, 
+ "column_names": ["company", "diameter", "topping", "variant", "size", "extra_sauce", "extra_cheese"]}
